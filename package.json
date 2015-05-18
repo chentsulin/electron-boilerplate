@@ -1,0 +1,25 @@
+{
+  "name": "electron-boilerplate",
+  "version": "0.1.0",
+  "description": "electron-boilerplate",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chentsulin/electron-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chentsulin/electron-boilerplate/issues"
+  },
+  "homepage": "https://github.com/chentsulin/electron-boilerplate#readme",
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "mocha": "^2.2.5",
+    "proxyquire": "^1.4.0",
+    "sinon": "^1.14.1"
+  }
+}
